@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_normal.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_normal.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_mini.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_mini.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ptr\\unspecified\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_normal.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_normal.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_mini.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xhdpi-v4\\urv_floating_action_button_fab_bg_mini.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ptr\\unspecified\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    }
+]

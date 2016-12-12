@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_mini.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_mini.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_normal.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_normal.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_normal.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_normal.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_mini.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-xxhdpi-v4\\urv_floating_action_button_fab_bg_mini.png"
+    }
+]

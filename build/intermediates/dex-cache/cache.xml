@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Tree_view\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5ec221013b614a482fa0d1ae8ec04174f3ac6eab">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_Tree_view-unspecified_9920bf32f011876c4c4549991e010824bb4db13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Coreframe\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74be1fa1fb94a2bff7b79309567543ac8a327458">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_Coreframe-unspecified_ffe7eb62a399068e4041944cdecc882231f011a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_8f08dafabf402a6ab70a7aa6151111224347db0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\gson-2.8.0_38bed019931d5fc2fcb901dc7d015f1359845114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_3499ba780231725631eab4df41357c5940a67e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Ultimaterecyclerview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1960594f7685351f0d48a511c05a120d8f04604">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_Ultimaterecyclerview-unspecified_d062f71d5e38297053f52450b17cd90c6ff633f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-studio-ide-143.2479369-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_4a85acaad861c24862d4f97a67bcab05fb200659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7c553e5fa5a95f4c3d2b81f6a926b0a239457de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.16\77f5d44994865d8a5f7a7e5452f52ff13fdf16f4\fastjson-1.2.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="77f5d44994865d8a5f7a7e5452f52ff13fdf16f4">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\fastjson-1.2.16_7d313d6f98fd9099a2012338dad56538cc2d9f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_eb609d949a1f2a53778bc03b4f200d1fb01ada09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_388013c08202349b796870032111e5f3824b3cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1390231c77c4df96a2c857395fa0e0d4617e7f99">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_PullToRefresh-unspecified_f44cc8907050658b36a707fb608bd89022cefd99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_8799f94a00c77415b56e7c655249bb7efc3b34d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Ptr\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3502eee38eb8baaca5197d7a837e3f10fec78416">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_Ptr-unspecified_30830ed46b15c67df7ec97cfe0b2b350f88f006a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\library-2.4.0_a70618323f67b75fc381c1aed8e6e24aeb4d58f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6ef06d8efdfef15cf22fed0821e44ebba1c36585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_c9d138187a8299017ef52abf0f182777769640d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_56292d37129d63e45e4e1b233111254981e4c967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_ac841cbd3330cb6473e5b74ba5168201c860d0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5efe542267a25533ecc418366c412602dcd08618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_e81ba27436227838f1d30caef351b9a356042e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_2f0a9cdab5cd49ed71ef0676927c20eb6a965def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_1b70800e12e9e8726697f44b7a2384df90ee5d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_bacf95a346fa81bcc409a33fa25016316fbc6302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_58ec5b9151b91a2b4aa301ba4998db2a76417950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Coreframe\unspecified\jars\libs\httpmime-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b762f16a072dbe778a2b72531974b1f133cb15b">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\httpmime-4.1.1_0be8a454542d31ec51133062f3ef332ba4058212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_54a929fe2d61bb739396a450088ba65a2087a2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\TrainService\Lib_Worldmaplibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5ad6665270de412efe874210640667cf7368f41b">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\TrainService-Lib_Worldmaplibrary-unspecified_d02c47b0f6bf3fd0897bef563a42bf1aa912b6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_945026e64c387fb9cb5e9f77dcc3b039d8864dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.0_9e3488d8aa57f3fe5eef4f2639523974f69c39df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\workspacestudio\TrainService\Plugin_CloseManagement\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_aa1984e74b2227bc92807f4d2654e16ef0b4de26.jar" />
+    </item>
+
+</items>

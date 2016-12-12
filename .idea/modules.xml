@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lib_Coreframe/Lib_Coreframe.iml" filepath="$PROJECT_DIR$/Lib_Coreframe/Lib_Coreframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Coreframe_withimg/Lib_Coreframe_withimg.iml" filepath="$PROJECT_DIR$/Lib_Coreframe_withimg/Lib_Coreframe_withimg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Ptr/Lib_Ptr.iml" filepath="$PROJECT_DIR$/Lib_Ptr/Lib_Ptr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_PullToRefresh/Lib_PullToRefresh.iml" filepath="$PROJECT_DIR$/Lib_PullToRefresh/Lib_PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Tree_view/Lib_Tree_view.iml" filepath="$PROJECT_DIR$/Lib_Tree_view/Lib_Tree_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Ultimaterecyclerview/Lib_Ultimaterecyclerview.iml" filepath="$PROJECT_DIR$/Lib_Ultimaterecyclerview/Lib_Ultimaterecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Worldmaplibrary/Lib_Worldmaplibrary.iml" filepath="$PROJECT_DIR$/Lib_Worldmaplibrary/Lib_Worldmaplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFrame.iml" filepath="$PROJECT_DIR$/MyFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plugin_CloseManagement/Plugin_CloseManagement.iml" filepath="$PROJECT_DIR$/Plugin_CloseManagement/Plugin_CloseManagement.iml" />
+    </modules>
+  </component>
+</project>

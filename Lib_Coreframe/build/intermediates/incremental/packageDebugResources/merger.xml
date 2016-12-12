@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\git space\MyFrame\Lib_Coreframe\src\main\res"/><source path="D:\git space\MyFrame\Lib_Coreframe\build\generated\res\rs\debug"/><source path="D:\git space\MyFrame\Lib_Coreframe\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\git space\MyFrame\Lib_Coreframe\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\git space\MyFrame\Lib_Coreframe\src\main\res"><file name="activity_back" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\activity_back.xml" qualifiers="" type="anim"/><file name="activity_finish" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\activity_finish.xml" qualifiers="" type="anim"/><file name="activity_new" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\activity_new.xml" qualifiers="" type="anim"/><file name="activity_out" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\activity_out.xml" qualifiers="" type="anim"/><file name="dialog_dismiss" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\dialog_dismiss.xml" qualifiers="" type="anim"/><file name="dialog_show" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\dialog_show.xml" qualifiers="" type="anim"/><file name="push_bottom_in" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_bottom_out" path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\anim\push_bottom_out.xml" qualifiers="" type="anim"/><file path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\values\colors.xml" qualifiers=""><color name="txt_press_blue">#66ccff</color><color name="head_gray">#E7E7E7</color><color name="txt_dark_gray">#656565</color><color name="trans_orange">#88d97b11</color><color name="head_red">#E82B2B</color><color name="background">#EEEEEE</color><color name="actionbar_opacity">#33000000</color><color name="radio_bg_green">#4ca47f</color><color name="cube_mints_333333">#333333</color><color name="txt_purple">#a06ad8</color><color name="txt_green">#4ba47d</color><color name="progress_febg">#1BA2D7</color><color name="txt_light_black">#333333</color><color name="head_orange">#EF7327</color><color name="head_yellow">#EFC041</color><color name="grayline">#E3E4E5</color><color name="orangeline">#ef8435</color><color name="txt_blue">#274dab</color><color name="transblue">#6042a6e5</color><color name="txt_gray">#a1a6a9</color><color name="progress_bg">#EFEFEF</color><color name="app_bg">#EEEEEE</color><color name="divider_color">#ffd5d9df</color><color name="txt_orange">#d97b11</color></file><file path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\values\dimens.xml" qualifiers=""><dimen name="nomal_bigger_textsize">16sp</dimen><dimen name="small_textsize">12sp</dimen><dimen name="big_textsize">18sp</dimen><dimen name="nomal_textsize">15sp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="nomal_smaller_textsize">14sp</dimen><dimen name="default_recyclerview_space">10dp</dimen><dimen name="recyclerview_space">1dp</dimen><dimen name="fab_margin">16dp</dimen><dimen name="line_recyclerview_space">1px</dimen><dimen name="store_recyclerview_space">10dp</dimen><dimen name="actionBar_height">50dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="employees_recyclerview_space">14dp</dimen></file><file path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\values\strings.xml" qualifiers=""><string name="select_complaint_target"><u>选择投诉对象</u></string><string name="search_people">搜索联系人</string><string name="publis_new_meeting">新建</string><string name="click_loading">点击加载更多</string><string name="hint_search_data">输入搜索事件的相关内容…</string><string name="str_editable">编辑文字</string><string name="hint_meeting_data">会议日期</string><string name="title_activity_publish_new_record">PublishNewRecordActivity</string><string name="submit_report">提交报告</string><string name="loading">加载中...</string><string name="already_send">已发送记录</string><string name="cell_list_reocrd_detail">查看详细内容</string><string name="meeting_content">会议内容：</string><string name="meeting_detail">会议详细</string><string name="title_activity_launch">LaunchActivity</string><string name="cell_list_record_record">发送会议记录</string><string name="hello_world">Hello world!</string><string name="internet_not_connect">网络访问失败，请连接网络</string><string name="title_activity_select_people">SelectPeopleActivity</string><string name="title_scan">扫描</string><string name="donot_more">没有更多</string><string name="title_activity_record_detail">RecordDetailActivity</string><string name="action_settings">Settings</string><string name="title_activity_send_email">SendEmailSelectActivity</string><string name="title_activity_main_activity2">MainActivity2Activity</string><string name="title_activity_meeting_detail">MeetingDetailActivity</string><string name="title_activity_meeting_main">MeetingMainActivity</string><string name="recv_cargo_location"><u>揽货点</u></string><string name="core_version">1.0</string><string name="app_error_message">"很抱歉，应用程序出现错误，即将退出。
+请选择邮件的方式将此错误报告提交给我，我会尽快修复这个问题，谢谢！"</string><string name="app_error">应用程序错误</string><string name="none_send">还没有发送记录</string><string name="car_position_btn"><u>车辆分布</u></string></file><file path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\values-w820dp\attrs.xml" qualifiers="w820dp-v13"><attr format="dimension" name="borderRadius"/><declare-styleable name="SwipeBackLayout">
+        <attr format="dimension" name="edge_size"/>
+        <attr name="edge_flag">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="bottom" value="2"/>
+            <enum name="all" value="3"/>
+        </attr>
+        <attr format="reference" name="shadow_left"/>
+        <attr format="reference" name="shadow_right"/>
+        <attr format="reference" name="shadow_bottom"/>
+    </declare-styleable><declare-styleable name="NumberProgressBar">
+        <attr format="integer" name="progress_current"/>
+        <attr format="integer" name="progress_max"/>
+
+        <attr format="color" name="progress_unreached_color"/>
+        <attr format="color" name="progress_reached_color"/>
+
+        <attr format="dimension" name="progress_reached_bar_height"/>
+        <attr format="dimension" name="progress_unreached_bar_height"/>
+
+        <attr format="dimension" name="progress_text_size"/>
+        <attr format="color" name="progress_text_color"/>
+
+        <attr format="dimension" name="progress_text_offset"/>
+
+        <attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+    </declare-styleable><attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr><declare-styleable name="Themes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable><declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable><attr format="reference" name="SwipeBackLayoutStyle"/></file><file path="D:\git space\MyFrame\Lib_Coreframe\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="D:\git space\MyFrame\Lib_Coreframe\build\generated\res\rs\debug"/><source path="D:\git space\MyFrame\Lib_Coreframe\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\git space\MyFrame\Lib_Coreframe\src\debug\res"/></dataSet><mergedItems/></merger>

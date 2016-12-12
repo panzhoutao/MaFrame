@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transblue">#6042a6e5</color>
+
+    <color name="txt_blue">#274dab</color>
+    <color name="txt_gray">#a1a6a9</color>
+    <color name="txt_dark_gray">#656565</color>
+    <color name="txt_light_black">#333333</color>
+    <color name="txt_press_blue">#66ccff</color>
+    <color name="txt_green">#4ba47d</color>
+    <color name="divider_color">#ffd5d9df</color>
+    <color name="txt_orange">#d97b11</color>
+    <color name="trans_orange">#88d97b11</color>
+    <color name="progress_bg">#EFEFEF</color>
+    <color name="progress_febg">#1BA2D7</color>
+    <color name="grayline">#E3E4E5</color>
+    <color name="background">#EEEEEE</color>
+    <color name="orangeline">#ef8435</color>
+    <color name="radio_bg_green">#4ca47f</color>
+    <color name="cube_mints_333333">#333333</color>
+    <color name="txt_purple">#a06ad8</color>
+    <color name="actionbar_opacity">#33000000</color>
+
+    <color name="head_gray">#E7E7E7</color>
+    <color name="head_red">#E82B2B</color>
+    <color name="head_orange">#EF7327</color>
+    <color name="head_yellow">#EFC041</color>
+    <color name="app_bg">#EEEEEE</color>
+</resources>

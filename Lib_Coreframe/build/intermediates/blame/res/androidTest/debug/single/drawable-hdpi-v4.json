@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\urv_floating_action_button_ic_fab_star.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-hdpi-v4\\urv_floating_action_button_ic_fab_star.png"
+    },
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\urv_floating_action_button_ic_fab_star.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Ultimaterecyclerview\\unspecified\\res\\drawable-hdpi-v4\\urv_floating_action_button_ic_fab_star.png"
+    }
+]

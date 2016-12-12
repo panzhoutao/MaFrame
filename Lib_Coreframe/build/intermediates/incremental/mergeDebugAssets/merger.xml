@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\git space\MyFrame\Lib_Coreframe\src\main\assets"><file name="client.bks" path="D:\git space\MyFrame\Lib_Coreframe\src\main\assets\client.bks"/><file name="peer.pfx" path="D:\git space\MyFrame\Lib_Coreframe\src\main\assets\peer.pfx"/></source><source path="D:\git space\MyFrame\Lib_Coreframe\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\git space\MyFrame\Lib_Coreframe\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="publis_new_meeting">新建</string>
+    <string name="meeting_detail">会议详细</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_error">应用程序错误</string>
+    <string name="app_error_message">"很抱歉，应用程序出现错误，即将退出。
+请选择邮件的方式将此错误报告提交给我，我会尽快修复这个问题，谢谢！"</string>
+    <string name="submit_report">提交报告</string>
+    <string name="internet_not_connect">网络访问失败，请连接网络</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="title_activity_meeting_main">MeetingMainActivity</string>
+    <string name="title_activity_publish_new_record">PublishNewRecordActivity</string>
+
+    <!--<string name="version">1.0</string>-->
+
+    <string name="loading">加载中...</string>
+    <string name="click_loading">点击加载更多</string>
+    <string name="donot_more">没有更多</string>
+    <string name="cell_list_reocrd_detail">查看详细内容</string>
+    <string name="cell_list_record_record">发送会议记录</string>
+    <string name="title_activity_record_detail">RecordDetailActivity</string>
+
+    <string name="recv_cargo_location"><u>揽货点</u></string>
+    <string name="select_complaint_target"><u>选择投诉对象</u></string>
+    <string name="car_position_btn"><u>车辆分布</u></string>
+    <string name="hint_meeting_data">会议日期</string>
+    <string name="hint_search_data">输入搜索事件的相关内容…</string>
+    <string name="title_scan">扫描</string>
+    <string name="meeting_content">会议内容：</string>
+    <string name="str_editable">编辑文字</string>
+    <string name="search_people">搜索联系人</string>
+    <string name="title_activity_select_people">SelectPeopleActivity</string>
+    <string name="title_activity_send_email">SendEmailSelectActivity</string>
+    <string name="title_activity_meeting_detail">MeetingDetailActivity</string>
+    <string name="already_send">已发送记录</string>
+    <string name="none_send">还没有发送记录</string>
+    <string name="core_version">1.0</string>
+</resources>

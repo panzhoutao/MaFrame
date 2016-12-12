@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\git space\\MyFrame\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\MyFrame\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\workspacestudio\\TrainService\\Lib_Coreframe\\build\\intermediates\\exploded-aar\\TrainService\\Lib_Worldmaplibrary\\unspecified\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/remark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1、问题"
+            android:textSize="15sp"
+            android:textColor="@color/blue"
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="13dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/line"
+            android:layout_marginTop="10dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="发  现  人 : "
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="13dp"/>
+            <TextView
+                android:id="@+id/find_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="李四"
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:textColor="@color/green"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="整改部门 : "
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="13dp"/>
+            <TextView
+                android:id="@+id/dept_name"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="沈阳车务段->安全科"
+                android:textSize="15sp"
+                android:layout_marginTop="13dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="整  改  人 : "
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="13dp"/>
+            <TextView
+                android:id="@+id/zr_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="整改人"
+                android:textSize="15sp"
+                android:layout_marginTop="13dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="整改情况 : "
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="13dp"/>
+            <TextView
+                android:id="@+id/rectification"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="整改要求"
+                android:textSize="15sp"
+                android:layout_marginTop="13dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="状         态 : "
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="13dp"/>
+            <TextView
+                android:id="@+id/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="采纳"
+                android:textSize="15sp"
+                android:layout_marginTop="13dp"
+                android:textColor="@color/green"/>
+        </LinearLayout>
+        
+        <Button
+            android:id="@+id/itemBtn"
+            android:layout_width="115dp"
+            android:layout_height="28dp"
+            android:layout_marginTop="28dp"
+            android:layout_gravity="center"
+            android:background="@drawable/look"
+            android:layout_marginBottom="24dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
